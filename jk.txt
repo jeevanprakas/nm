@@ -1,2 +1,6 @@
 git init
+<<<<<<< HEAD
 sdfghjksdfgh
+=======
+dfghjk
+
